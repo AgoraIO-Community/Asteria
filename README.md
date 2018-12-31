@@ -1,7 +1,7 @@
 # Asteria
 
 ## Intro & Demo
-https://www.youtube.com/watch?v=lNmZe53QK3A&feature=youtu.be
+https://www.youtube.com/watch?v=lNmZe53QK3A
 
 ## Inspiration
 We wanted a simple way for teams to collaborate online as comfortably as they do in person. The application is meant to address some of the biggest challenges when working as a team over a video call.
